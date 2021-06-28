@@ -4,6 +4,13 @@ This repository contains all demos for the Genesys-ZU.
 
 For more information about the Genesys-ZU, visit its [Resource Center](https://reference.digilentinc.com/programmable-logic/genesys-zu/start) on the Digilent Wiki.
 
+Each demo contained in this repository is documented on the Digilent Wiki, links in the table below.
+
+| Wiki Link | Demo Master Branch | Submodules Used |
+|-----------|--------------------|-----------------|
+| [Genesys ZU-5EV HDMI Demo](https://reference.digilentinc.com/learn/programmable-logic/tutorials/genesys-zu-5ev-demo-hdmi/start) | 5ev/demo/hdmi/master  | HW, SW |
+
+
 ## Repository Description
 
 This repository is designed to offer a unified and comprehensive approach to all of the aspects of the demos that we provide for the Genesys-ZU, across multiple tools. By cloning this repo recursively you will receive the repositories for Vivado projects (HW), and Vitis workspaces (SW). Each submodule may have its own submodule dependencies which will also be pulled when cloning. An important aspect of this structure is the fact that the SW heavily depends on hardware hand-off files from the HW repository.
