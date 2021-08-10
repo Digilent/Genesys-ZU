@@ -1,9 +1,6 @@
 [submodule "hw"]
 	path = hw
 	url = ../genesys-zu-hw.git
-[submodule "os"]
-	path = os
-	url = ../genesys-zu-os.git
 [submodule "sw"]
 	path = sw
 	url = ../genesys-zu-sw.git
