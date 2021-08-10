@@ -3,4 +3,4 @@
 	url = ../genesys-zu-hw.git
 [submodule "sw"]
 	path = sw
-	url = git@git.digilentinc.com:digilent/zuca/genesys-zu-sw.git
+	url = ../genesys-zu-sw.git
