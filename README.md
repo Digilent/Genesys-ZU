@@ -1,4 +1,4 @@
-Genesys ZU-5EV Base Demo
+Genesys ZU-3EG Base Demo
 ==========================
 
 Description
