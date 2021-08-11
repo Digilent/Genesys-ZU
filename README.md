@@ -11,6 +11,8 @@ Each demo contained in this repository is documented on the Digilent Wiki, links
 | [Genesys ZU-5EV HDMI Demo](https://reference.digilentinc.com/learn/programmable-logic/tutorials/genesys-zu-5ev-demo-hdmi/start) | 5ev/demo/hdmi/master  | HW, SW |
 | [Getting Started with the Genesys ZU (Out-of-Box Demo)](https://reference.digilentinc.com/programmable-logic/genesys-zu/getting-started) | 5ev/oob/master  | HW, OS |
 | [Getting Started with the Genesys ZU (Out-of-Box Demo)](https://reference.digilentinc.com/programmable-logic/genesys-zu/getting-started) | 3eg/oob/master  | HW, OS |
+| [Genesys ZU-5EV Hello World Demo](https://reference.digilentinc.com/programmable-logic/genesys-zu/getting-started) | 5ev/master  | HW, SW |
+| [Genesys ZU-3EG Hello World Demo](https://reference.digilentinc.com/programmable-logic/genesys-zu/getting-started) | 3eg/master  | HW, SW |
 
 
 ## Repository Description
