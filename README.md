@@ -5,6 +5,10 @@ Description
 -----------
 This repository contains the Hwllo World Demo for the Genesys ZU-5EV. It is a simple demo that configures the Zynq Ultrascale+ MPSoc with the given board file, and outputs "Hello World" on the serial terminal. For receiving the message, an MicroUSB cable needs to be connected between the computer and the USB/PROG port.
 
+For more information on the Genesys ZU-5EV Hello World Demo, including setup instructions, visit its [Demo Page](https://reference.digilentinc.com/learn/programmable-logic/tutorials/genesys-zu-demo-hello-world/start) on the Digilent Wiki.
+
+For more information on the Genesys ZU-5EV, including other demos that may be available, see its [Resource Center](https://reference.digilentinc.com/programmable-logic/genesys-zu/start) on the Digilent Wiki.
+
 Requirements
 ------------
 * **Genesys ZU-5EV**: To purchase a Genesys ZU-3EG, see the [Digilent Store](https://store.digilentinc.com/genesys-zu-zynq-ultrascale-mpsoc-development-board/).
