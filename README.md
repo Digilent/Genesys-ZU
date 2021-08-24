@@ -11,7 +11,7 @@ For more information on the Genesys ZU-5EV, including other demos that may be av
 
 Requirements
 ------------
-* **Genesys ZU-5EV**: To purchase a Genesys ZU-3EG, see the [Digilent Store](https://store.digilentinc.com/genesys-zu-zynq-ultrascale-mpsoc-development-board/).
+* **Genesys ZU-5EV**: To purchase a Genesys ZU-5EV, see the [Digilent Store](https://store.digilentinc.com/genesys-zu-zynq-ultrascale-mpsoc-development-board/).
 * **Vivado 2020.1 Installation with Xilinx Vitis**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
 * **Serial Terminal Emulator Application**: For more information see the [Installing and Using a Terminal Emulator Tutorial](https://reference.digilentinc.com/learn/programmable-logic/tutorials/tera-term).
 * **MicroUSB Cable**
