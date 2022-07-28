@@ -4,3 +4,6 @@
 [submodule "sw"]
 	path = sw
 	url = ../genesys-zu-sw.git
+[submodule "os"]
+	path = os
+	url = git@github.com:Digilent/Genesys-ZU-OS.git
