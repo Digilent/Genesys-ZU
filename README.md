@@ -1,9 +1,9 @@
-Genesys ZU-5EV Zmod AWG Demo
+Genesys ZU-3EG Zmod AWG Demo
 ==========================
 
 Description
 -----------
-This repository contains the Zmod AWG Demo for the Genesys ZU-5EV. It is a simple demo that configures the Zynq Ultrascale+ MPSoc with the given board file, it outputs "Hello World" on the serial terminal and it generates two ramp signals on the Zmod AWG outputs.
+This repository contains the Zmod AWG Demo for the Genesys ZU-3EG. It is a simple demo that configures the Zynq Ultrascale+ MPSoc with the given board file, it outputs "Hello World" on the serial terminal and it generates two ramp signals on the Zmod AWG outputs.
 For receiving the Hello World message, an MicroUSB cable needs to be connected between the computer and the USB/PROG port.
 For running the demo, make sure you connect a Zmod AWG to the Zmod port on the Genesys ZU.
 
@@ -13,13 +13,13 @@ After downloading the project on the Genesys ZU board, wait for 3-4 seconds so V
 If the Zmod has been successfully configured, LD2 LED will turn on.
 If the Zmod has not been successfully configured, LD1 LED will turn on.
 
-This demo is based on the Genesys ZU-5EV Hello World Demo, which is detailed here, including setup instructions: [Demo Page](https://reference.digilentinc.com/learn/programmable-logic/tutorials/genesys-zu-demo-hello-world/start) on the Digilent Wiki.
+This demo is based on the Genesys ZU-3EG Hello World Demo, which is detailed here, including setup instructions: [Demo Page](https://reference.digilentinc.com/learn/programmable-logic/tutorials/genesys-zu-demo-hello-world/start) on the Digilent Wiki.
 
-For more information on the Genesys ZU-5EV, including other demos that may be available, see its [Resource Center](https://reference.digilentinc.com/programmable-logic/genesys-zu/start) on the Digilent Wiki.
+For more information on the Genesys ZU-3EG, including other demos that may be available, see its [Resource Center](https://reference.digilentinc.com/programmable-logic/genesys-zu/start) on the Digilent Wiki.
 
 Requirements
 ------------
-* **Genesys ZU-5EV**: To purchase a Genesys ZU-5EV, see the [Digilent Store](https://store.digilentinc.com/genesys-zu-zynq-ultrascale-mpsoc-development-board/).
+* **Genesys ZU-3EG**: To purchase a Genesys ZU-3EG, see the [Digilent Store](https://store.digilentinc.com/genesys-zu-zynq-ultrascale-mpsoc-development-board/).
 * **Vivado 2020.1 Installation with Xilinx Vitis**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
 * **Serial Terminal Emulator Application**: For more information see the [Installing and Using a Terminal Emulator Tutorial](https://reference.digilentinc.com/learn/programmable-logic/tutorials/tera-term).
 * **MicroUSB Cable**
