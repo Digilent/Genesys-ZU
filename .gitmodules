@@ -1,9 +1,9 @@
 [submodule "hw"]
 	path = hw
-	url = ../genesys-zu-hw.git
+	url = https://github.com/Digilent/Genesys-ZU-HW.git
 [submodule "sw"]
 	path = sw
-	url = ../genesys-zu-sw.git
+	url = https://github.com/Digilent/Genesys-ZU-SW.git
 [submodule "os"]
 	path = os
-	url = git@github.com:Digilent/Genesys-ZU-OS.git
+	url = https://github.com/Digilent/Genesys-ZU-OS.git
